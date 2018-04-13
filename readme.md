@@ -21,4 +21,3 @@ with a super component that quickly becomes too complex to maintain.
 
 In this video I will show you two different reusable components and
 the mindset to have when you create each.
-# reusable-components
